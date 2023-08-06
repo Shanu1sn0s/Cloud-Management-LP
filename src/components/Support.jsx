@@ -3,7 +3,6 @@ import supportImg from "../assets/support.jpg";
 import {
   PhoneIcon,
   ArrowSmRightIcon,
-  AcademicCapIcon,
 } from "@heroicons/react/outline";
 import { ChipIcon, SupportIcon } from "@heroicons/react/solid";
 
